@@ -12,7 +12,7 @@
 - :sun_with_face: I'm Brazilian and I was born in Rio de Janeiro.
 - :parachute: I work at an Artifitial Intelligence company as a Metainformation Intern Analyst. 
 - :rainbow: I love building things from scratch, being involved in projects and creating a sense of comunity with people around me. 
-- 📚 I'm studying now to become a data analyst/business analyst.
+- 📚 I'm studying now to become a Data Analyst/Business Analyst.
 - 🍃 I'm kinda addicted to tea, chocolate and books.
   
   <hr/>
