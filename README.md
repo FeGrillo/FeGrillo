@@ -1,8 +1,10 @@
 #### Hi! I'm Fernanda Grillo :space_invader:
 
-<hr/>
 
 ###### ✨ welcome ✨ simbora criar! 
+
+
+<hr/>
 
 ##### A little bit about me:
 
