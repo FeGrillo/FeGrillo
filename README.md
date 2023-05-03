@@ -14,7 +14,14 @@
 - :rainbow: I love building things from scratch, being involved in projects and creating a sense of comunity with people around me. 
 - 📚 I'm studying now to become a data analyst/business analyst.
 - 🍃 I'm kinda addicted to tea, chocolate and books.
-- 📫 Email: fegrillo@yahoo.com.br
   
   <hr/>
   
+  
+  <div> 
+
+  <a href="https://www.instagram.com/fgrillof" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fegrillo@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fegrillo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
