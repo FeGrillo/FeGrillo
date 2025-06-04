@@ -7,13 +7,12 @@
 <hr/>
 
 about me
-- :rainbow: Passionate about building projects from scratch, being involved in projects and creating a sense of comunity with people around me.
+- :rainbow: Passionate about building things from scratch, being involved in projects and creating a sense of comunity with people around me.
 - ✨ Expanding my path from Data Quality into Data & Business Analytics — learning Python, Power BI, and data storytelling.
 - 📚 This whole data adventure started in an internship — two years of learning SQL, Databricks, and how clean data builds better AI.
+- 🏃 I love running! After a whole day at the computer, I just need to step outside and let the wind clear my thoughts.
 - :parachute: I work at a Trade Marketing tech company as a Data Quality Analyst. 
 - 🍃 Kinda addicted to chocolate and movies.
-- 🏃 I love running. 
-  
 <hr/>
   
   
