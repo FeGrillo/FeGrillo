@@ -6,7 +6,7 @@
 
 <hr/>
 
-
+about me
 - :rainbow: Passionate about building projects from scratch, being involved in projects and creating a sense of comunity with people around me.
 - ✨ Expanding my path from Data Quality into Data & Business Analytics — learning Python, Power BI, and data storytelling.
 - 📚 This whole data adventure started in an internship — two years of learning SQL, Databricks, and how clean data builds better AI.
